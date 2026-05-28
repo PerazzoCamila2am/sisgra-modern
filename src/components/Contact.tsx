@@ -1,14 +1,14 @@
 export function Contact() {
   return (
-    <section id="contacto" className="px-6 py-24">
-      <div className="mx-auto max-w-7xl rounded-[2rem] border border-cyan-300/20 bg-gradient-to-br from-cyan-300/15 to-blue-600/10 p-10 md:p-16">
+    <section id="contacto" className="px-4 py-16 md:px-6 md:py-24">
+      <div className="mx-auto max-w-7xl rounded-[1.5rem] border border-cyan-300/20 bg-gradient-to-br from-cyan-300/15 to-blue-600/10 p-6 md:rounded-[2rem] md:p-16">
         <div className="grid gap-10 lg:grid-cols-2">
           <div>
             <p className="mb-3 text-sm font-semibold uppercase tracking-[0.3em] text-cyan-300">
               Contacto
             </p>
 
-            <h2 className="text-4xl font-bold md:text-5xl">
+            <h2 className="text-3xl font-bold md:text-5xl">
               ¿Necesitás mejorar la infraestructura tecnológica de tu empresa?
             </h2>
 

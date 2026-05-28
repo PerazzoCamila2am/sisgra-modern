@@ -2,14 +2,14 @@ import { services } from "../data/services";
 
 export function Services() {
   return (
-    <section id="servicios" className="relative px-6 py-24">
+    <section id="servicios" className="relative px-4 py-16 md:px-6 md:py-24">
       <div className="mx-auto max-w-7xl">
         <div className="mb-14 max-w-3xl">
           <p className="mb-3 text-sm font-semibold uppercase tracking-[0.3em] text-cyan-300">
             Servicios
           </p>
 
-          <h2 className="text-4xl font-bold md:text-5xl">
+          <h2 className="text-3xl font-bold md:text-5xl">
             Soluciones tecnológicas para cada punto crítico de tu operación.
           </h2>
 
